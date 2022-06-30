@@ -26,7 +26,7 @@ export default {
   },
   components: {
     Navigation,
-    InvoiceModal
+    InvoiceModal,
   },
   created(){
     this.checkScreen();
